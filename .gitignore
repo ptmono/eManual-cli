@@ -1,0 +1,10 @@
+*pyc
+*.sqlite
+*,v
+worknote.muse
+yum.dia
+study.py
+
+.ropeproject
+
+tests/ttestsqlite

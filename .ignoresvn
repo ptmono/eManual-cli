@@ -1,0 +1,4 @@
+.ropeproject
+*.sqlite
+ttest.sqlite-journal
+ttestsqlite
