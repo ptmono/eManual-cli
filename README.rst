@@ -10,7 +10,7 @@ is not scheduled. I have no information how many I exercising. If I record
 the exercise, it provide the information. It simply can be realized with
 pen or elisp. I, however, adapt the study purpose.
 
- I need a software tool to know that how many I did. Simply I can note the
+I need a software tool to know that how many I did. Simply I can note the
 count of push-ups, crunches in a day. After a month the tool will report
 how many i exercise. eManual helps the recording, statistic and scheduling
 for exercises with my desktop.
@@ -50,11 +50,13 @@ USING
 =====
 
 Let's assume that I will do exercises in a day.
+
  - push-ups : 100 count
  - crunches : 100 count
  - running : 1 hour
 
 I did the exercises.
+
  - 30 push-ups at AM 6
  - 40 crunches at PM 3
  - 50 push-ups at PM 7
